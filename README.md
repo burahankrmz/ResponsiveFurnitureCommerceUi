@@ -1,16 +1,7 @@
-# flutterresponsive
+Flutter Responsive Furniture Ecommerce Ui
 
-A new Flutter project.
+Designed from Upladb = https://www.uplabs.com/posts/ios-furniture-e-commerce-app-store
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1637593306](https://user-images.githubusercontent.com/76684491/142884650-e25348e4-e480-4874-917c-961d53eb5cbe.png)
+![Screenshot_1637593308](https://user-images.githubusercontent.com/76684491/142884658-201a292a-220c-42a9-8a7d-f43e45e4a3a2.png)
+![Screenshot_1637593311](https://user-images.githubusercontent.com/76684491/142884664-b7adafc3-1361-4b50-9f5a-f4f5576c7f8a.png)
