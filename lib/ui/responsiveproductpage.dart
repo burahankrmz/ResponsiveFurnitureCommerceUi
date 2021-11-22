@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/painting.dart';
-import 'package:flutterresponsive/ui/context_extension.dart';
+import 'package:flutterresponsive/core/extensions/context_extension.dart';
 
 class ColumnDesignView extends StatefulWidget {
   final String sampleChairsUrl;

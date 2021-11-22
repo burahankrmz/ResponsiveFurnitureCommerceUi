@@ -1,9 +1,9 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutterresponsive/ui/basketpage.dart';
-import 'package:flutterresponsive/ui/column_design_view.dart';
-import 'package:flutterresponsive/ui/constants.dart';
-import 'package:flutterresponsive/ui/context_extension.dart';
+import 'package:flutterresponsive/ui/responsivebasketpage.dart';
+import 'package:flutterresponsive/ui/responsiveproductpage.dart';
+import 'package:flutterresponsive/core/constants/constants.dart';
+import 'package:flutterresponsive/core/extensions/context_extension.dart';
 import 'package:page_transition/page_transition.dart';
 
 class HomePage extends StatefulWidget {

@@ -2,8 +2,8 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/painting.dart';
 import 'package:flutter_slidable/flutter_slidable.dart';
-import 'package:flutterresponsive/ui/constants.dart';
-import 'package:flutterresponsive/ui/context_extension.dart';
+import 'package:flutterresponsive/core/constants/constants.dart';
+import 'package:flutterresponsive/core/extensions/context_extension.dart';
 
 class BasketPage extends StatefulWidget {
   const BasketPage({Key? key}) : super(key: key);
